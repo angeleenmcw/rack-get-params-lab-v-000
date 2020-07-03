@@ -2,7 +2,7 @@ class Application
   
     @@items = ["Apples","Carrots","Pears"]
 
-  @@cart = []
+    @@cart = []
 
 
  def call(env)
